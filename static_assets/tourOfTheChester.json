@@ -1,0 +1,239 @@
+{
+   "nav_icon": "chester_icon.png",
+   "firstPhotoId":"112379",
+   "firstPhotoRotation":150,
+   "soundEffects": {
+      "navButton": {
+         "onEnter": {
+            "uri": "switch-flip.wav",
+            "attributionUri": "https://www.freesound.org/people/ianstargem/sounds/278205/"
+         },
+         "onClick": {
+            "uri": "menu-click.wav",
+            "attributionUri": "https://www.freesound.org/people/fins/sounds/146721/"
+         }
+      },
+      "infoButton": {
+         "onEnter": {
+            "uri": "switch-flip.wav",
+            "attributionUri": "https://www.freesound.org/people/ianstargem/sounds/278205/"
+         }
+      },
+      "ambient": {
+         "uri": "cafe.wav",
+         "attributionUri": "https://www.freesound.org/people/PapercutterJohn/sounds/322031/",
+         "loop": true,
+         "volume": 0.50
+      }
+   },
+   "photos":{
+      "112362":{
+         "rotationOffset": 0,
+         "uri":"pano--new-york.jpg",
+         "tooltips":[
+            {
+               "text":"Home",
+               "rotationY": -106.844,
+               "linkedPhotoId":"112379"
+            },
+            {
+               "text":"To Washington D.C.",
+               "rotationY": 150,
+               "linkedPhotoId":"112399"
+            },
+            {
+               "type": "image",
+               "rotationY": 100,
+               "width": 1.125,
+               "height": 1.695,
+               "source":"bernie--protesting.jpg",
+               "attribution": "Photo sourced from DemocraticUnderground.com",
+               "attributionUri": "https://www.democraticunderground.com/128099366#post13"
+            },
+            {
+               "type": "textblock",
+               "title": "Bernie Sanders",
+               "text": "Bernie Sanders participating in a 1965 civil rights march from Selma to Montgomery (Alabama) with Martin Luther King, Jr. The web site identified the man standing “behind Coretta King, just right of Old Glory in the glasses, white ‘t’ shirt, open collar and dark jacket” as the future United States senator and 2016 Democratic presidential candidate.",
+               "rotationY": 135,
+               "width": 1.0,
+               "height": 1.0
+            }
+         ]
+      },
+      "112379":{
+         "rotationOffset": -120,
+         "uri":"starry-sky.jpg",
+         "tooltips":[
+            {
+               "text":"Begin the Tour!",
+               "rotationY": -64.525,
+               "linkedPhotoId":"112362"
+            },
+            {
+               "type": "panelimage",
+               "rotationY": 140,
+               "width": 1.280,
+               "height": 1.280,
+               "source": "old-fashioned.jpg",
+               "text": "Bar open until midnight M-F and 2:00 a.m. weekends.",
+               "attribution": "Photo by Will Shenton",
+               "attributionUri": "https://commons.wikimedia.org/wiki/File:The_Young_Laddie_Cocktail.jpg"
+            },
+            {
+               "type": "textblock",
+               "title": "Welcome to Innovation Artist Labs!",
+               "text": "Feb. 1st, 2018 - Take a walk through history.",
+               "attribution": "360 Photos courtesy of Oyster.com, text from TheChester.com",
+               "rotationY": 0,
+               "width": 1.5,
+               "height": 1.5
+            }
+         ]
+      },
+      "112355":{
+         "rotationOffset": -30,
+         "uri":"pano--los-angeles.jpg",
+         "tooltips":[
+            {
+               "text":"Back to Washington D.C.",
+               "rotationY": 30,
+               "linkedPhotoId":"112399"
+            },
+            {
+               "text":"To Chicago",
+               "rotationY": 117.441,
+               "linkedPhotoId":"112371"
+            },
+            {
+               "type": "textblock",
+               "title": "The Watts Riots",
+               "text": "On August 11, 1965, an African-American motorist was pulled over on suspicion of reckless driving. A minor roadside argument broke out, and then escalated into a fight between family members and police. The community reacted in outrage to allegations of police brutality that soon spread, and six days of looting and arson followed.",
+               "rotationY": -151,
+               "width": 1.0,
+               "height": 1.0
+            },
+            {
+               "type": "video",
+               "rotationY": 80,
+               "width": 2.560,
+               "height": 1.240,
+               "source":"watts--newscast-riots.webm",
+               "muted":true
+            },
+            {
+               "type": "panelimage",
+               "rotationY": 290,
+               "width": 1.280,
+               "height":0.850,
+               "source":"beer-cheers.jpg",
+               "text": "The Chester Biergarten is ideal for group dining and social gatherings. Enjoy casual picnic-table seating and views of the historic Meatpacking District.",
+               "attribution": "Photo by yutacar on upslash",
+               "attributionUri": "https://unsplash.com/photos/JKMnm3CIncw"
+            }
+         ]
+      },
+      "112392":{
+         "rotationOffset": 80,
+         "uri":"the-chester--v112392.prefilter.jpg",
+         "tooltips":[
+            {
+               "text":"The Snug",
+               "rotationY": -11.33789063,
+               "linkedPhotoId":"112371"
+            },
+            {
+               "text":"Biergarten",
+               "rotationY": -112.2363281,
+               "linkedPhotoId":"112351"
+            }
+         ]
+      },
+      "112399":{
+         "rotationOffset": 90,
+         "uri":"pano--washington-dc.jpg",
+         "tooltips":[
+            {
+               "text":"Back to New York City",
+               "rotationY": -115,
+               "linkedPhotoId":"112362"
+            },
+            {
+               "text":"To Los Angeles",
+               "rotationY": -15,
+               "linkedPhotoId":"112355"
+            },
+            {
+               "type": "textblock",
+               "title": "I Have a Dream Speech",
+               "text": "Delivered by American civil rights activist Martin Luther King Jr. during the March on Washington for Jobs and Freedom on August 28, 1963, in which he calls for an end to racism in the United States and called for civil and economic rights. Delivered to over 250,000 civil rights supporters from the steps of the Lincoln Memorial in Washington, D.C., the speech was a defining moment of the civil rights movement.",
+               "rotationY": -151,
+               "width": 1.0,
+               "height": 1.0
+            },
+            {
+               "type": "video",
+               "rotationY": 80,
+               "width": 2.560,
+               "height": 1.240,
+               "source":"mlk--i-have-a-dream.webm",
+               "muted":true
+            },
+            {
+               "type": "image",
+               "rotationY": -53,
+               "width": 1.92,
+               "height": 1.08,
+               "source":"mlk--lincoln-memorial-crowd.jpg",
+               "attribution": "Photo sourced from Seamstress",
+               "attributionUri": "https://www.semesteratsea.org/wp-content/uploads/2013/08/1963_march_lincoln_memorial12.jpg"
+            }
+         ]
+      },
+      "112371":{
+         "rotationOffset": -20,
+         "uri":"pano--chicago.jpg",
+         "tooltips":[
+            {
+               "text":"Finish",
+               "rotationY": -92.02148438,
+               "linkedPhotoId":"112379"
+            },
+            {
+               "type": "textblock",
+               "title": "Southern Christian Leadership",
+               "text": "As early as 1962 SCLC began to broaden its focus to include issues of economic inequality. Seeing poverty as the root of social inequality, in 1962 SCLC began Operation Breadbasket in Atlanta to create new jobs in the black community. In 1966 the program spread to Chicago as part of the Chicago Campaign",
+               "rotationY": 100.42,
+               "width": 1.0,
+               "height": 1.0
+            }
+         ]
+      },
+      "112393":{
+         "rotationOffset": 140,
+         "uri":"the-chester--v112393.prefilter.jpg",
+         "tooltips":[
+            {
+               "text":"Biergarten",
+               "rotationY": 29.348,
+               "linkedPhotoId":"112355"
+            }
+         ]
+      },
+      "112351":{
+         "rotationOffset": -80,
+         "uri":"the-chester--v112351.prefilter.jpg",
+         "tooltips":[
+            {
+               "text":"Biergarten",
+               "rotationY": -102.793,
+               "linkedPhotoId":"112392"
+            },
+            {
+               "text":"Biergarten",
+               "rotationY": 63.843,
+               "linkedPhotoId":"112355"
+            }
+         ]
+      }
+   }
+}
